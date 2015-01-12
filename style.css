@@ -152,19 +152,27 @@ div img {
 #bc {
     display:block;
     position: absolute;
-    top: -23.59em;
-    left: -3.1em;
+    top: -12em;
+    left: 0em;
     bottom:0;
     margin: auto;
 }
 
+#bites {
+    display:block;
+    position: absolute;
+    top: -11.74em;
+    bottom:0;
+    left: -12em;
+    margin: auto;
+}
 
 #pod {
     display:block;
     position: absolute;
-    top: -3.1em;
+    top: 0em;
     bottom: 0;
-    left: -11.59em;
+    left: -12em;
     margin: auto;
 }
 
