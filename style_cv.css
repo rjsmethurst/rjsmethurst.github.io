@@ -1,0 +1,48 @@
+h1 {
+	text-align:center;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+body {
+	background-color: #fffffc;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+div {
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 0.9em;
+}
+
+.separate {
+    display:inline-block;
+	width: 100%;
+	height:1.5px;
+	background-color:gray;
+	clear:both;
+}
+
+.main {
+    text-indent: 2em;
+}
+
+.details {
+    font-size: 0.9em;
+    text-indent: 5em;
+    color:#303030 
+}
+
+a:link {
+	text-decoration: none;
+	color:#330066;
+}
+
+a:hover{
+	text-decoration: underline;
+	color:#000066;
+}
+a:visited {
+	text-decoration: none;
+	color:#330066;
+}
+
